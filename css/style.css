@@ -1,0 +1,15 @@
+@charset "utf-8";
+html, body {
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+}
+
+#gameStart {
+    margin: 10px auto;
+    display: block;
+}
